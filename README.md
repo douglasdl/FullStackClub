@@ -2,11 +2,11 @@
 
 ## [Full Stack Week - FSW](https://fullstackclub.com.br/fsw/)
 <ul>
-  <li><a href="https://github.com/douglasdl/FSW-Barber">FSW1 - Barber</a></li>
-  <li><a href="https://github.com/douglasdl/FSW-Store">FSW2 - Store</a></li>
-  <li><a href="https://github.com/douglasdl/FSW-Trips">FSW3 - Trips</a></li>
+  <li><a href="https://github.com/douglasdl/FSW1-Barber">FSW1 - Barber</a></li>
+  <li><a href="https://github.com/douglasdl/FSW2-Store">FSW2 - Store</a></li>
+  <li><a href="https://github.com/douglasdl/FSW3-Trips">FSW3 - Trips</a></li>
   <li><a href="https://github.com/douglasdl/FSW-Foods">FSW4 - Foods</a></li>
-  <li><a href="https://github.com/douglasdl/FSW-Barber">FSW5 - Barber V2</a></li>
+  <li><a href="https://github.com/douglasdl/FSW5-Barber">FSW5 - Barber</a></li>
 </ul>
 
 ## Full Stack Club
