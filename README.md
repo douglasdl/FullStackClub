@@ -1,5 +1,7 @@
 # [FullStackClub](https://fullstackclub.com.br)
 
+## [Blog](https://fullstackclub.com.br/blog/)
+
 ## [Full Stack Week - FSW](https://fullstackclub.com.br/fsw/)
 <ul>
   <li><a href="https://github.com/douglasdl/FSW1-Barber">FSW1 - Barber</a></li>
