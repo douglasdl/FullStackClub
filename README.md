@@ -1,6 +1,11 @@
 # [FullStackClub](https://fullstackclub.com.br)
 
 ## [Blog](https://fullstackclub.com.br/blog/)
+## [Blog](https://fullstackclub.com.br/fscblog/)
+<ul>
+  <li><a href="https://fullstackclub.com.br/fscblog/aulao-react/">Aulão React</a></li>
+  <li><a href="https://fullstackclub.com.br/fscblog/aulao-typescript/">Aulão Typescript</a></li>
+</ul>
 
 ## [Full Stack Week - FSW](https://fullstackclub.com.br/fsw/)
 <ul>
@@ -9,6 +14,7 @@
   <li><a href="https://github.com/douglasdl/FSW3-Trips">FSW3 - Trips</a></li>
   <li><a href="https://github.com/douglasdl/FSW-Foods">FSW4 - Foods</a></li>
   <li><a href="https://github.com/douglasdl/FSW5-Barber">FSW5 - Barber</a></li>
+  <li><a href="https://github.com/douglasdl/FSW6-Finence-SaaS">FSW6 - Finence-SaaS</a></li>
 </ul>
 
 ## Full Stack Club
