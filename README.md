@@ -14,7 +14,7 @@
   <li><a href="https://github.com/douglasdl/FSW3-Trips">FSW3 - Trips</a></li>
   <li><a href="https://github.com/douglasdl/FSW-Foods">FSW4 - Foods</a></li>
   <li><a href="https://github.com/douglasdl/FSW5-Barber">FSW5 - Barber</a></li>
-  <li><a href="https://github.com/douglasdl/FSW6-Finence-SaaS">FSW6 - Finence-SaaS</a></li>
+  <li><a href="https://github.com/douglasdl/FSW6-Finance-SaaS">FSW6 - Finance-SaaS</a></li>
 </ul>
 
 ## Full Stack Club
